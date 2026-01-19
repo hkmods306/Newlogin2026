@@ -1,16 +1,14 @@
-[
-  {
-    "id": "441ba50c4a2a94ce",
-    "username": "Username",
-    "password": "password",
-    "expiresAt": "2025-01-01",
-    "allowOffline": false
-  },
-  {
-    "id": "441ba50c4a2a94ce",
-    "username": "Username",
-    "password": "password",
-    "expiresAt": "2027-01-01",
-    "allowOffline": false
-  }
-]
+{
+  "showDialog": true,
+  "title": "🔐 ID Login",
+  "description": "Only Login Button पर Click करे ।",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "renewUrl": "https://t.me/hitesh125sf",
+  "devices": [
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-20"
+    },
